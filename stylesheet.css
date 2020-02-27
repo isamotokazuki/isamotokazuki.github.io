@@ -3,6 +3,10 @@ header {
 
 }
 
+.main {
+  background-color:pink;
+}
+
 h1 {
   font-size:50px;
   color: red;
@@ -10,5 +14,5 @@ h1 {
 }
 
 footer {
-  background-color:blue
+  background-color:blue;
 }
